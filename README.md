@@ -1,2 +1,0 @@
-# tomasjustino.eventinvite
-work shop
